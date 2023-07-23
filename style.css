@@ -418,15 +418,15 @@ body {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        padding: 0 40px;
+        padding: 0 60px;
         color: rgb(241, 22, 22);
       }
   
       .bottom-links .links span {
-        font-size: 20px;
+        font-size: 30px;
         color: #fff;
         text-transform: uppercase;
-        margin: 10px 0;
+        margin: 20px 0;
       }
   
       .bottom-links .links a {
@@ -434,7 +434,7 @@ body {
         color: #a1a1a1;
         padding: 10px 20px;
         color: #0c100c;
-        size: 15%;
+        size: 20%;
       }
       
     
